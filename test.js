@@ -7,3 +7,7 @@ console.log("Hello Branch one :|");
 
 // working on brach_two
 console.log("Hello Branch two :|");
+
+// Trying to create Merge Conflict
+
+const add = a + b;
