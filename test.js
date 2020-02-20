@@ -8,6 +8,12 @@ console.log("Hello Branch one :|");
 // working on brach_two
 console.log("Hello Branch two :|");
 
+<<<<<<< HEAD
 // Trying to create Merge Conflict
 
 const add = a + b;
+=======
+//trying to create merge conflict
+
+const sub = a - b;
+>>>>>>> branch_two
